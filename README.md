@@ -88,3 +88,16 @@ in physically demanding jobs, to see if the results hold across a larger and mor
 - Honest interpreter of results
 - And most of all, it made me fall in love with asking questions and chasing answers with Python.
 
+Insight Images:
+
+Line Chart with Music Impact:
+![line chart](https://github.com/user-attachments/assets/e08859fb-eca5-4d1b-bed1-017a9b8b428d)
+
+Linear Regression
+![LR](https://github.com/user-attachments/assets/c36bb3ac-1fc6-4534-9800-91aa13d36657)
+
+Random Forest:
+![RF](https://github.com/user-attachments/assets/4087d961-f45d-486a-9f57-546f6372b979)
+
+OSL Regression
+![OSLR](https://github.com/user-attachments/assets/85a45108-dc0e-4de2-9ba3-beadfaf068ab)
