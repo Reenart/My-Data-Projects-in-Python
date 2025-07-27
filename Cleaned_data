@@ -1,0 +1,37 @@
+Date,Day,Start Time,Feeling,Music,Genre,Break Duration,Building Condition,Type of Cleaning,Completion Time,Comment,Start DateTime,End DateTime,Duration,Formatted Duration,Duration_Mins,StartTime_Mins
+2024-11-10,Sunday,10:36:00,Neutral,Yes,Blues,45,Semi-clean,Minimal,04:21:00,Overtime worked,2024-11-10 22:36:00,2024-11-11 04:21:00,0 days 05:45:00,5 hrs 45 min,345.0,1356
+2024-11-11,Monday,10:42:00,Tired,Yes,Mixed,45,Dirty,Detailed,05:07:00,,2024-11-11 22:42:00,2024-11-12 05:07:00,0 days 06:25:00,6 hrs 25 min,385.0,1362
+2024-11-12,Tuesday,10:30:00,Tired,No,,30,Dirty,Detailed,05:24:00,,2024-11-12 22:30:00,2024-11-13 05:24:00,0 days 06:54:00,6 hrs 54 min,414.0,1350
+2024-11-13,Wednesday,11:24:00,Tired,Yes,Mixed,45,Dirty,Detail,05:30:00,,2024-11-13 23:24:00,2024-11-14 05:30:00,0 days 06:06:00,6 hrs 6 min,366.0,1404
+2024-11-14,Thursday,10:40:00,Tired,No,,50,Mild,Detail,05:26:00,,2024-11-14 22:40:00,2024-11-15 05:26:00,0 days 06:46:00,6 hrs 46 min,406.0,1360
+2024-11-17,Sunday,10:40:00,Tired,Yes,Mixed,55,Mild,Detail,05:20:00,,2024-11-17 22:40:00,2024-11-18 05:20:00,0 days 06:40:00,6 hrs 40 min,400.0,1360
+2024-11-18,Monday,11:40:00,Neutral,Yes,Mixed,45,Mild,Detail,04:56:00,,2024-11-18 23:40:00,2024-11-19 04:56:00,0 days 05:16:00,5 hrs 16 min,316.0,1420
+2024-11-19,Tuesday,11:33:00,Neutral,Yes,Afrobeat,50,Dirty,Detail,04:38:00,,2024-11-19 23:33:00,2024-11-20 04:38:00,0 days 05:05:00,5 hrs 5 min,305.0,1413
+2024-11-20,Wednesday,10:35:00,Neutral,No,,75,Dirty,Minimal,04:45:00,,2024-11-20 22:35:00,2024-11-21 04:45:00,0 days 06:10:00,6 hrs 10 min,370.0,1355
+2024-11-21,Thursday,10:33:00,Tired,No,,60,Dirty,Detail,05:10:00,,2024-11-21 22:33:00,2024-11-22 05:10:00,0 days 06:37:00,6 hrs 37 min,397.0,1353
+2024-11-24,Sunday,10:37:00,Energetic,Yes,Afrobeat,55,Dirty,Detail,05:15:00,,2024-11-24 22:37:00,2024-11-25 05:15:00,0 days 06:38:00,6 hrs 38 min,398.0,1357
+2024-11-25,Monday,10:51:00,Tired,No,,70,Mild,Minimal,05:10:00,,2024-11-25 22:51:00,2024-11-26 05:10:00,0 days 06:19:00,6 hrs 19 min,379.0,1371
+2024-11-26,Tuesday,10:22:00,Tired,Yes,Mixed,55,Dirty,Detail,05:10:00,,2024-11-26 22:22:00,2024-11-27 05:10:00,0 days 06:48:00,6 hrs 48 min,408.0,1342
+2024-11-27,Wednesday,10:31:00,Neutral,Yes,Mixed,60,Dirty,Detail,05:00:00,,2024-11-27 22:31:00,2024-11-28 05:00:00,0 days 06:29:00,6 hrs 29 min,389.0,1351
+2024-11-28,Thursday,10:49:00,Tired,Yes,Mixed,45,Mild,Minimal,04:20:00,,2024-11-28 22:49:00,2024-11-29 04:20:00,0 days 05:31:00,5 hrs 31 min,331.0,1369
+2024-12-01,Sunday,11:12:00,Neutral,Yes,Soul music,60,Mild,Minimal,05:10:00,,2024-12-01 23:12:00,2024-12-02 05:10:00,0 days 05:58:00,5 hrs 58 min,358.0,1392
+2024-12-02,Monday,10:38:00,Neutral,Yes,Soul music,55,Dirty - Winter Salt,Detail,05:10:00,,2024-12-02 22:38:00,2024-12-03 05:10:00,0 days 06:32:00,6 hrs 32 min,392.0,1358
+2024-12-03,Tuesday,10:35:00,Tired,No,,55,Mild,Detail - full mopping,05:20:00,,2024-12-03 22:35:00,2024-12-04 05:20:00,0 days 06:45:00,6 hrs 45 min,405.0,1355
+2024-12-04,Wednesday,10:29:00,Neutral,Yes,Mixed,45,Mild,Minimal,03:55:00,,2024-12-04 22:29:00,2024-12-05 03:55:00,0 days 05:26:00,5 hrs 26 min,326.0,1349
+2024-12-05,Thursday,10:29:00,Tired,No,,45,Dirty,Detail,04:30:00,,2024-12-05 22:29:00,2024-12-06 04:30:00,0 days 06:01:00,6 hrs 1 min,361.0,1349
+2024-12-08,Sunday,10:45:00,Tired,No,,50,Dirty,Minimal,04:45:00,,2024-12-08 22:45:00,2024-12-09 04:45:00,0 days 06:00:00,6 hrs 0 min,360.0,1365
+2024-12-09,Monday,11:45:00,Tired,No,,55,Mild,Minimal,05:00:00,,2024-12-09 23:45:00,2024-12-10 05:00:00,0 days 05:15:00,5 hrs 15 min,315.0,1425
+2024-12-10,Tuesday,10:33:00,Extremely Tired,No,,47,Mild,Minimal,03:50:00,,2024-12-10 22:33:00,2024-12-11 03:50:00,0 days 05:17:00,5 hrs 17 min,317.0,1353
+2024-12-11,Wednesday,10:25:00,Neutral,No,,45,Mild,Minimal,03:45:00,,2024-12-11 22:25:00,2024-12-12 03:45:00,0 days 05:20:00,5 hrs 20 min,320.0,1345
+2024-12-12,Thursday,10:30:00,Neutral,Yes,Afrobeat,45,Mild,Minimal,03:45:00,,2024-12-12 22:30:00,2024-12-13 03:45:00,0 days 05:15:00,5 hrs 15 min,315.0,1350
+2024-12-15,Sunday,10:42:00,Neutral,Yes,Afrobeat,45,Mild,Detail,04:10:00,,2024-12-15 22:42:00,2024-12-16 04:10:00,0 days 05:28:00,5 hrs 28 min,328.0,1362
+2024-12-16,Monday,10:55:00,Neutral,Yes,Mixed,45,Mild,Detail,03:40:00,,2024-12-16 22:55:00,2024-12-17 03:40:00,0 days 04:45:00,4 hrs 45 min,285.0,1375
+2024-12-17,Tuesday,10:38:00,Neutral,No,,60,Mild,Detail,04:30:00,,2024-12-17 22:38:00,2024-12-18 04:30:00,0 days 05:52:00,5 hrs 52 min,352.0,1358
+2024-12-18,Wednesday,10:34:00,Neutral,Yes,Mixed,45,Mild,Mild,03:40:00,,2024-12-18 22:34:00,2024-12-19 03:40:00,0 days 05:06:00,5 hrs 6 min,306.0,1354
+2025-01-05,Sunday,10:43:00,Neutral,Yes,Mixed,45,Dirty,Detail,05:20:00,,2025-01-05 22:43:00,2025-01-06 05:20:00,0 days 06:37:00,6 hrs 37 min,397.0,1363
+2025-01-06,Monday,10:43:00,Neutral,Yes,Mixed,70,Dirty,Mild,04:40:00,,2025-01-06 22:43:00,2025-01-07 04:40:00,0 days 05:57:00,5 hrs 57 min,357.0,1363
+2025-01-07,Tuesday,10:24:00,Neutral,Yes,Mixed,45,Mild,Mild,04:10:00,,2025-01-07 22:24:00,2025-01-08 04:10:00,0 days 05:46:00,5 hrs 46 min,346.0,1344
+2025-01-08,Wednesday,10:30:00,Neutral,No,,75,Mild,Minimal,04:30:00,,2025-01-08 22:30:00,2025-01-09 04:30:00,0 days 06:00:00,6 hrs 0 min,360.0,1350
+2025-01-09,Thursday,10:31:00,Tired,Yes,Blues,70,Mild,Minimal,04:00:00,,2025-01-09 22:31:00,2025-01-10 04:00:00,0 days 05:29:00,5 hrs 29 min,329.0,1351
+2025-01-12,Sunday,10:34:00,Tired,Yes,Mixed,47,Mild,Minimal,03:50:00,,2025-01-12 22:34:00,2025-01-13 03:50:00,0 days 05:16:00,5 hrs 16 min,316.0,1354
+2025-01-13,Monday,10:24:00,Tired,No,,60,Mild,Minimal,05:00:00,,2025-01-13 22:24:00,2025-01-14 05:00:00,0 days 06:36:00,6 hrs 36 min,396.0,1344
